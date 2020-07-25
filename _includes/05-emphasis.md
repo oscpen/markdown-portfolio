@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am *pasionate* and _fast learner_.
+I like **programming** and __volunteering__.
+I enjoy _visits to **museums and parks** every month_.
