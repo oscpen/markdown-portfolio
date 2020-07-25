@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is Mara](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
